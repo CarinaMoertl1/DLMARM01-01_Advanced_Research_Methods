@@ -1,0 +1,6 @@
+/raw/
+/results_stock_evaluation_*/
+/run_info.txt
+__pycache__/
+*.py[cod]
+.mplconfig_check/
